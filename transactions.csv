@@ -1,0 +1,4 @@
+transaction_id,farmer_id,buyer_id,product_id,quantity,price,transaction_date
+1,1,1,1,100.00,500.00,2024-08-01
+2,2,2,2,150.00,450.00,2024-08-05
+3,3,3,3,200.00,400.00,2024-08-10

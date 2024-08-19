@@ -1,0 +1,4 @@
+buyer_id,name,contact_info,organization,location
+1,"Acme Corp",acme.corp@example.com,"Acme Corporation","Urban Area A"
+2,GreenGrocers,greengrocers@example.com,"Green Grocers","Urban Area B"
+3,FoodMart,foodmart@example.com,"FoodMart Retailers","Urban Area C"

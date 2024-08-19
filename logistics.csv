@@ -1,0 +1,4 @@
+logistics_id,transaction_id,status,delivery_date,transport_mode
+1,1,Delivered,2024-08-02,Truck
+2,2,Shipped,2024-08-06,Van
+3,3,Pending,NULL,Truck
